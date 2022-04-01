@@ -1,0 +1,29 @@
+Consider following table called "Employee" to write SQL queries for below questions.
+create Employee table and insert below records into the Employee table.
+
+Table: Employee	
+			
+Eid	Ename	Job		Salary	hire_date
+1001	John	clerk		5000	02-03-2022
+1005	Jack	Sales Executive	12000	12-04-2022
+1006	Ian	Receptionist	10000	11-04-2022
+1007	Kai	Worker		8000	12-05-2022
+1008	Erik	Data Entry		15000	04-01-2022
+1010	Raj	clerk		5000	03-01-2022
+
+Exercise1:
+  Write a SQL query to display all the employees whose Job is clerk.
+
+Exercise2:
+  Write a SQL query to display Eid, Ename, Job and Salary of all the employees whose Salary is less than 10000.
+
+Exercise3:
+  Write a SQL query to display all the employees who joined before 10-03-2022.
+
+Exercise4:
+  Write a SQL query to display all the employees whose Salary is 5000.
+
+Exercise1:
+  Write a SQL query to display all the employees whose Eid is 1007.
+
+
